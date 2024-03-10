@@ -6,7 +6,7 @@
 <p>There are three categories in which you will be able to test your knowledge in areas like: entertainment, history, general knowlegdge, geography, science, technology and flaws from all around the world !!</p>
 
 <p>Be careful, there are different levels of difficulty, will you be able to answer all the questions ??
-Let's go check !!</p>
+Let's go check it!!</p>
 
 <h1>--- Español ---</h1>
 <h3>Una web de entretenimiento que contiene diversos juegos de trivial, desarrollado por estudiantes de ingeniería informática de la UFV.</h3>
