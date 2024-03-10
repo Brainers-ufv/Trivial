@@ -203,22 +203,22 @@ const preguntas = [
     {
         id: 21,
         categoria: "tecnologia",
-        titulo: "¿?",
-        opcionA: "",
-        opcionB: "",
-        opcionC: "",
-        opcionD: "",
+        titulo: "¿Qué es una 'cookie' en el contexto de la navegación web?",
+        opcionA: "Un tipo de virus informático",
+        opcionB: "Algo que no sé, pero acepto para poder buscar algo en internet",
+        opcionC: "Un archivo que almacena información sobre la actividad del usuario en un sitio web",
+        opcionD: "Un programa para bloquear anuncios emergentes en un navegador",
         correcta: "c"
     },
     {
         id: 22,
         categoria: "tecnologia",
-        titulo: "",
-        opcionA: "",
-        opcionB: "",
-        opcionC: "",
-        opcionD: "",
-        correcta: ""
+        titulo: "De las siguientes opciones hay una que no es un Sistema Opretivo:",
+        opcionA: "Linux",
+        opcionB: "Mac OS",
+        opcionC: "Unix",
+        opcionD: "Windows",
+        correcta: "a"
     },
     {
         id: 23,
@@ -263,12 +263,12 @@ const preguntas = [
     {
         id: 27,
         categoria: "tecnologia",
-        titulo: "¿?",
-        opcionA: "",
-        opcionB: "",
-        opcionC: "",
-        opcionD: "",
-        correcta: "b"
+        titulo: "¿Con qué navegador es  más recomendado acceder a la 'Dark Web'?",
+        opcionA: "Google Chrome (obviamente)",
+        opcionB: "Mozilla Firefox",
+        opcionC: "Navegador Brave",
+        opcionD: "Navegador Tor",
+        correcta: "d"
     },
     {
         id: 28,
@@ -293,11 +293,11 @@ const preguntas = [
     {
         id: 30,
         categoria: "geografia",
-        titulo: "¿?",
-        opcionA: "Inside Out",
-        opcionB: "Finding Nemo",
-        opcionC: "Up",
-        opcionD: "Ratatouille",
+        titulo: "¿Qué es la 'Orografía'?",
+        opcionA: "Parte de la geografía que trata la descripción de las montañas",
+        opcionB: "Una ruta antigua de oro ",
+        opcionC: "Parte de la geografía que estudia los minerales",
+        opcionD: "La ciencia que estudia las propiedades del oro",
         correcta: "a"
     },
     {
@@ -338,7 +338,7 @@ const preguntas = [
         opcionB: "Espacio Europeo",
         opcionC: "Espacio Freeland",
         opcionD: "Espacio Schengen",
-        correcta: ""
+        correcta: "d"
     },
     {
         id: 35,
@@ -602,11 +602,7 @@ const preguntas = [
         opcionD: "Porque así lo dice la ley",
         correcta: "c"
     },
-
-
-
-
-
+    
     //añadimos preguntas con este formato
 ];  
 
