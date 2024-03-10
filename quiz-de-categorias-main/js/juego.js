@@ -455,10 +455,10 @@ const preguntas = [
         id: 46,
         categoria: "ciencias",
         titulo: "¿En qué año publicó Copérnico su obra sobre las esferas celestes ?",
-        opcionA: "1543",
+        opcionA: "1540",
         opcionB: "1555",
         opcionC: "1602",
-        opcionD: "1540",
+        opcionD: "1543",
         correcta: "a"
     },
     {
