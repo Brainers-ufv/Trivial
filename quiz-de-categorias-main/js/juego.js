@@ -426,8 +426,8 @@ const preguntas = [
         titulo: "¿Cuál de estos eventos históricos ocurrió primero?",
         opcionA: "Revolución Industrial",
         opcionB: "Caída del Imperio Romano",
-        opcionC: "La llegada de Cristóbal Colón a América",
-        opcionD: "la construcción de las pirámides de Egipto",
+        opcionC: "Llegada de Cristóbal Colón a América",
+        opcionD: "Construcción de las Pirámides de Egipto",
         correcta: "d"
     },
 
