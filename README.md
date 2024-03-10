@@ -13,4 +13,4 @@ Let's go check !!</p>
 
 <p>Aquí podréis encontrar tres categorías distintas en las que podréis poner a prueba vuestros conocimientos en áreas como: entretenimiento, historia, cultura general, geografía, ciencias, tecnología y banderas de todo el mundo.</p>
 
-<p>Tened cuidado, hay diferentes niveles de dificultad, ¿seréis capaces de responder a todas las preguntas? ! Vamos a comprobarlo ¡</p>
+<p>Tened cuidado, hay diferentes niveles de dificultad, ¿seréis capaces de responder a todas las preguntas? ¡ Vamos a comprobarlo !</p>
