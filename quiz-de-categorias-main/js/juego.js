@@ -28,7 +28,7 @@ const preguntas = [
         opcionB:"Nilo",
         opcionC:"Danubio",
         opcionD:"Misisipi",
-        correcta:"a"
+        correcta:"b"
     },
     {
         id:4,
