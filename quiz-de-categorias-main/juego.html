@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <title>TRIVIAL UFV</title>
+</head>
+<body>
+    <div class="container">
+        <img src="img/.png" alt="" class="img">
+        <header>
+            <div class="puntaje">
+                <img src="img/icono.png" alt="">
+                <span class="puntos" id="puntos">0</span>
+            </div>
+            <h1>TRIVIAL</h1>
+            <div class="jugador">
+                <span class="nombre" id="nombre">Nombre</span>
+                <img src="img/user.png" alt="">
+            </div>
+        </header>
+
+        <main class="juego">
+            <div class="contador-pregunta">
+                <span id="num-pregunta" class="num-pregunta">01</span>
+                /
+                <span> 10</span> <!--aqui cambiamos el nº de preguntas-->
+            </div>
+            <p id="txt-pregunta" class="pregunta">
+                ¿Texto de la pregunta 1?
+            </p>
+
+            <div class="opciones" id="opciones">
+                <button class="opcion" id="a">Opcion A</button>
+                <button class="opcion" id="b">Opcion B</button>
+                <button class="opcion" id="c">Opcion C</button>
+                <button class="opcion" id="d">OPCION D</button>
+            </div>
+
+            <button class="btn" id="siguiente">Siguiente</button>
+            
+        </main>
+    </div>
+
+    <script src="js/juego.js"></script>
+    <footer>
+        Desarrollado por Brainers - UFV - 2024
+    </footer>
+</body>
+</html>
