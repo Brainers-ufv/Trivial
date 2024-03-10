@@ -213,7 +213,7 @@ const preguntas = [
     {
         id: 22,
         categoria: "tecnologia",
-        titulo: "De las siguientes opciones hay una que no es un Sistema Opretivo:",
+        titulo: "De las siguientes opciones hay una que no es un Sistema Operativo:",
         opcionA: "Linux",
         opcionB: "Mac OS",
         opcionC: "Unix",
@@ -223,7 +223,7 @@ const preguntas = [
     {
         id: 23,
         categoria: "tecnologia",
-        titulo: "¿Cuál es la empresa creadora de la consola PlayStation?",
+        titulo: "¿Cuál es la empresa creadora de la consola 'PlayStation'?",
         opcionA: "Microsoft",
         opcionB: "Sony",
         opcionC: "Nintendo",
