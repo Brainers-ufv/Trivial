@@ -1,12 +1,26 @@
 //cargo en un array las imganes de las banderas. Este sera el orden que se mostrarán
-let banderas = ["pa.svg", "bo.svg", "ad.svg", "gb.svg", "na.svg", "mong.jpg", "chip.jpg", "fiji.jpg", "butan.jpg","guinea.jpg", "serb.jpg", "Uzb.jpg", "let.jpg","aus.jpg", "sri.jpg", "ug.jpg", "mali.jpg"];
+let banderas = ["esp.png", "tai.png", "gre.png", "col.png", "hun.png", "mal.png", "gua.png", "lib.png", "bra.png", "nor.png", "irl.png" , "alb.png" , "sua.png", "pa.svg", "bo.svg", "ad.svg", "gb.svg", "na.svg", "mong.jpg", "chip.jpg", "fiji.jpg", "butan.jpg","guinea.jpg", "serb.jpg", "Uzb.jpg", "let.jpg","aus.jpg", "sri.jpg", "ug.jpg", "mali.jpg"];
 
 //array que guardara la opcion correcta
-let correcta = [2,2,1,1,0,1,0,2,0, 2, 1, 0, 0, 1, 1,0, 2];
+let correcta = [2, 2, 0, 2, 0, 1, 0, 1, 2, 2, 0, 1,1, 2,2,1,1,0,1,0,2,0, 2, 1, 0, 0, 1, 1,0, 2];
 
 //array que guardara los paises a mostrar en cada jugada
 let opciones = [];
 //cargo en el arreglo opciones las opciones a mostrar en cada jugada
+opciones.push(["SUIZA", "BÉLGICA", "ESPAÑA"]);
+opciones.push(["ISLAS FILIPINAS", "VIETNAM", "TAIWAN"]);
+opciones.push(["GRECIA", "TURQUÍA", "COREA DEL NORTE"]);
+opciones.push(["MÉXICO", "INDIA", "COLOMBIA"]);
+opciones.push(["HUNGRÍA", "BULGARIA", "LITUANIA"]);
+opciones.push(["PORTUGAL", "MALTA", "MARRUECOS"]);
+opciones.push(["GUATEMALA", "HAITÍ", "EL SALVADOR"]);
+opciones.push(["MOLDAVIA", "LÍBANO", "KENIA"]);
+opciones.push(["CHILE", "ARGENTINA", "BRASIL"]);
+opciones.push(["SUECIA", "DINAMARCA", "NORUEGA"]);
+opciones.push(["IRLANDA DEL NORTE", "CROACIA", "ESCOCIA"]);
+opciones.push(["MONTENEGRO", "ALBANIA", "BOSNIA Y HERZEGOVINA"]);
+opciones.push(["SOMALIA", "SUAZILANDIA", "SIRIA"]);
+
 opciones.push(["SUDAFRICA", "SINGAPUR", "PANAMA"]);
 opciones.push(["PERU", "ITALIA", "BOLIVIA"]);
 opciones.push(["TUNEZ", "ANDORRA", "ANTIGUA Y BARBUDA"]);
